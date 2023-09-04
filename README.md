@@ -1,4 +1,4 @@
-### Olá, aqui é o Leonardo! 👋
+### Olá, aqui é o Leonardo! 👋🤙
 
 ##
 <div>
