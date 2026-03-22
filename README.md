@@ -19,7 +19,7 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Min
 
 ---
 
-### 🛠️ Minha Stack de Poder
+### 🛠️ Minha Stack
 
 <div align="center">
   
