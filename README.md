@@ -1,11 +1,10 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Leonardo&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Leonardo&fontSize=70&fontAlignY=35" width="100%" />
 
   <h3>Software Developer | C#/.NET & Fullstack Enthusiast</h3>
 
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnB3ZzB0bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6bmZ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/fH36AKH46gqZfX8Y06/giphy.gif" width="300" />
+    <img src="https://media.tenor.com/7T2D7t9S_78AAAAC/demon-slayer-tanjiro.gif" width="300" />
   </p>
   
   ---
@@ -19,7 +18,7 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Min
 
 ---
 
-### 🛠️ Minha Stack
+### 🛠️ Minha Stack de Poder
 
 <div align="center">
   
@@ -40,16 +39,12 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Min
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocunha1&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardocunha1&theme=tokyonight" />
-</div>
-
 ---
 
 ### 🐍 Snake Game (Contribuições)
 
 <p align="center">
-  <img src="https://github.com/leonardocunha1/leonardocunha1/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/leonardocunha1/leonardocunha1/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
