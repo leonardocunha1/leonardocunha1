@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Leonardo&fontSize=70&fontAlignY=35" width="100%" />
 
-  <h3>Software Developer | C#/.NET & Fullstack Enthusiast</h3>
+  <h3>Software Developer | QA | C#/.NET & Fullstack Enthusiast</h3>
 
   <p align="center">
-    <img src="https://media.tenor.com/7T2D7t9S_78AAAAC/demon-slayer-tanjiro.gif" width="300" />
-  </p>
+        <img src="https://octodex.github.com/images/inspectocat.jpg" width="300" />
+</p>
   
   ---
   
@@ -41,7 +40,7 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Min
 
 ---
 
-### 🐍 Snake Game (Contribuições)
+### 🐍 Commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/leonardocunha1/leonardocunha1/output/github-contribution-grid-snake.svg" />
@@ -51,11 +50,15 @@ Sou um desenvolvedor apaixonado por criar soluções robustas e escaláveis. Min
 
 ### 📫 Vamos nos conectar?
 
+ <p align="center">
+        <img src="https://private-user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzQyMjQ4NDMsIm5iZiI6MTc3NDIyNDU0MywicGF0aCI6Ii83NDAzODE5MC8yNjQxNDE2ODMtOGFhOTlmNmMtMjY3ZC00OTc3LTljZDMtMWE0YzExNjc1ODYzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzIzVDAwMDkwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTllYmJlNTUyMjYyNmI5MmNmNTBjMWM0OThlYjlkYzAzOGM0NGJhZDhkNDlhYjJjOWFlZjZjY2ZjYjJhMmFiM2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tmjEpx4fg9HNhI5ly6e2P_g0QEaUvJuMdNf5nMJlkaE" width="300" />
+</p>
+
 <div align="center">
   <a href="mailto:leo.francasp97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/leonardocunha1">
+  <a href="linkedin.com/in/leonardo-cunha-8a6170263">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
